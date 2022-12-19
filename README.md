@@ -1,11 +1,13 @@
 
 # Video_colorization.[py](https://github.com/imvickykumar999/Video-Colorization/blob/main/video_colorization.py)
 
-### Transformed Video
+## Transformed Video
 
 https://user-images.githubusercontent.com/50515418/208450925-81a28039-1ee6-48e6-afc4-e41ebb9ab95c.mp4
 
-### Original Video
+### `It took 20 minutes to transform only 10 seconds video.`
+
+## Original Video
 
 https://user-images.githubusercontent.com/50515418/208451041-b5ab039c-36d4-432f-9047-f15d3da0bea9.mp4
 
