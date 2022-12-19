@@ -1,11 +1,10 @@
 
-import argparse, os, cv2, time
+from moviepy.editor import VideoFileClip, AudioFileClip
+import moviepy.video.fx.all as vfx
+import argparse, os, cv2, shutil
 import matplotlib.pyplot as plt
 from colorizers import *
 from PIL import Image
-from moviepy.editor import VideoFileClip, AudioFileClip
-import moviepy.video.fx.all as vfx
-import shutil
 
 def step1():
 	try:
@@ -25,7 +24,7 @@ def step1():
 	while success:
 		cv2.imwrite(f"vid_out/{str(count).zfill(6)}.jpg", image)     # save frame as JPEG file      
 		success,image = vidcap.read()
-		print('Read a new frame: ', success)
+		print(f'Read {count+1} frame: ', success)
 		count += 1
 
 def step2():
@@ -128,6 +127,6 @@ def step4():
 	videoclip.write_videofile(out_loc)
 
 # step1()
-step2()
+# step2()
 # step3()
 # step4()
