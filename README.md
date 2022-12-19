@@ -1,41 +1,32 @@
-<!--<h3><b>Colorful Image Colorization</b></h3>-->
-# <b>Colorful Image Colorization</b> [[Project Page]](http://richzhang.github.io/colorization/) <br>
-[Richard Zhang](https://richzhang.github.io/), [Phillip Isola](http://web.mit.edu/phillipi/), [Alexei A. Efros](http://www.eecs.berkeley.edu/~efros/). In [ECCV, 2016](http://arxiv.org/pdf/1603.08511.pdf).
 
------------------------
+# Video_colorization.[py](https://github.com/imvickykumar999/Video-Colorization/blob/main/video_colorization.py)
 
-## Video_colorization.[py](https://github.com/imvickykumar999/colorization/blob/master/video_colorization.py)
-
-### Transformed Video
+## Transformed Video
 
 https://user-images.githubusercontent.com/50515418/208450925-81a28039-1ee6-48e6-afc4-e41ebb9ab95c.mp4
 
-### Original Video
+### `It took 20 minutes to transform only 10 seconds video.`
+
+## Original Video
 
 https://user-images.githubusercontent.com/50515418/208451041-b5ab039c-36d4-432f-9047-f15d3da0bea9.mp4
 
 ----------------------
 
-**+ automatic colorization functionality for Real-Time User-Guided Image Colorization with Learned Deep Priors, SIGGRAPH 2017!**
-
-**[Sept20 Update]** Since it has been 3-4 years, I converted this repo to support minimal test-time usage in PyTorch. I also added our SIGGRAPH 2017 (it's an interactive method but can also do automatic). See the [Caffe branch](https://github.com/richzhang/colorization/tree/caffe) for the original release.
-
-![Teaser Image](http://richzhang.github.io/colorization/resources/images/teaser4.jpg)
-
 **Clone the repository; install dependencies**
 
 ```
-git clone https://github.com/richzhang/colorization.git
+gh repo clone imvickykumar999/Video-Colorization
 pip install requirements.txt
 ```
 
 **Colorize!** This script will colorize an image. The results should match the images in the `imgs_out` folder.
 
 ```
-python demo_release.py -i imgs/ansel_adams3.jpg
+python demo_release.py -i imgs/output.jpg
 ```
 
-**Model loading in Python** The following loads pretrained colorizers. See [demo_release.py](demo_release.py) for some details on how to run the model. There are some pre and post-processing steps: convert to Lab space, resize to 256x256, colorize, and concatenate to the original full resolution, and convert to RGB.
+**Model loading in Python** The following loads pretrained colorizers. See [demo_release.py](https://github.com/imvickykumar999/Video-Colorization/blob/main/extras/demo_release.py) for some details on how to run the model. There are some pre and post-processing steps: convert to Lab space, resize to 256x256, colorize, and concatenate to the original full resolution, and convert to RGB.
 
 ```python
 import colorizers
@@ -69,6 +60,3 @@ If you find these models useful for your resesarch, please cite with these bibte
   publisher={ACM}
 }
 ```
-
-### Misc ###
-Contact Richard Zhang at rich.zhang at eecs.berkeley.edu for any questions or comments.
