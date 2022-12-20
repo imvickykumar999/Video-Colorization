@@ -1,5 +1,8 @@
 
 # Video_colorization.[py](https://github.com/imvickykumar999/Video-Colorization/blob/main/video_colorization.py)
+### >>> `pip install -r requirements.txt`
+
+--------------------------------
 
 ## Transformed Video
 
