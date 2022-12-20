@@ -1,6 +1,6 @@
 
 # >>> pip install pyinstaller
-# >>> pyinstaller --onefile --noconsole "ImgColexe.py"
+# >>> pyinstaller --onefile --noconsole "magic.py"
 # >>> cd dist
 
 # put input.jpg in dist folder and double click on ImgColexe.exe
