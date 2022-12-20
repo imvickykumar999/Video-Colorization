@@ -17,6 +17,11 @@ def step1():
 	except:
 		pass
 
+	try:
+		os.mkdir('vid')
+	except:
+		pass
+
 	vidcap = cv2.VideoCapture('vid/oldsong.mp4')
 	success,image = vidcap.read()
 	count = 0
@@ -130,4 +135,4 @@ def step4():
 # step1()
 # step2()
 # step3()
-step4()
+# step4()

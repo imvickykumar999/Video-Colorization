@@ -1,5 +1,5 @@
 
-# >>> pip install pyinstaller
+# >>> pip install pyinstaller --upgrade
 # >>> pyinstaller --onefile --noconsole "magic.py"
 # >>> cd dist
 
