@@ -60,3 +60,22 @@ If you find these models useful for your resesarch, please cite with these bibte
   publisher={ACM}
 }
 ```
+
+----------------------------------
+
+## `Input command` in [Curl Commands Online](https://reqbin.com/curl)
+
+    curl \
+        -F 'image=https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/12/2019/01/BW-using-curves.jpg' \
+        -H 'api-key:c34c7088-11a1-456b-9a77-1384500eb46f' \
+        https://api.deepai.org/api/colorizer 
+    
+-----------------------
+
+## `Output Response` : [deepai.org](https://deepai.org/machine-learning-model/colorizer) need payment of 5 doller per month.
+`I avoid such websites which need payments, this repository can do same for free.`
+
+    {
+        "status": "Out of API credits - please enter payment info in your dashboard: https://deepai.org/dashboard"
+    }
+    
