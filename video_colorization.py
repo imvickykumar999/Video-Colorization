@@ -107,6 +107,7 @@ def step3():
 		video = cv2.VideoWriter(os.path.join('vid', video_name), 0, 1, (width, height))
 
 		for image in images:
+			print('Writing for ', image)
 			video.write(cv2.imread(os.path.join(image_folder, image)))
 		
 		cv2.destroyAllWindows()
@@ -129,4 +130,4 @@ def step4():
 # step1()
 # step2()
 # step3()
-# step4()
+step4()
