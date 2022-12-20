@@ -6,9 +6,19 @@
 # put imgs/input.jpg in dist folder and double click 
 # on ImgColexe.exe to get output in imgs_out folder.
 
-import argparse
+import argparse, os
 import matplotlib.pyplot as plt
 from colorizers import *
+
+try:
+	os.mkdir('imgs')
+except:
+	pass
+
+try:
+	os.mkdir('imgs_out')
+except:
+	pass
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--use_gpu', action='store_true', help='whether to use GPU')
