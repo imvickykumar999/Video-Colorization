@@ -27,4 +27,5 @@ if(opt.use_gpu):
 img_bw = postprocess_tens(tens_l_orig, torch.cat((0*tens_l_orig,0*tens_l_orig),dim=1))
 out_img_eccv16 = postprocess_tens(tens_l_orig, colorizer_eccv16(tens_l_rs).cpu())
 out_img_siggraph17 = postprocess_tens(tens_l_orig, colorizer_siggraph17(tens_l_rs).cpu())
-plt.imsave('output.png', out_img_eccv16)
+plt.imsave('out_img_eccv16_output.png', out_img_eccv16)
+plt.imsave('out_img_siggraph17_output.png', out_img_eccv16)
