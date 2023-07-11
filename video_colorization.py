@@ -132,7 +132,7 @@ def step4():
 	videoclip = final.set_audio(audioclip)
 	videoclip.write_videofile(out_loc)
 
-# step1()
-# step2()
-# step3()
-# step4()
+step1()
+step2()
+step3()
+step4()
