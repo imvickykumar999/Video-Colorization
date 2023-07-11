@@ -1,16 +1,24 @@
 
-# Video_colorization.[py](https://github.com/imvickykumar999/Video-Colorization/blob/main/video_colorization.py)
-### >>> `pip install -r requirements.txt`
+# `Video_colorization`.[py](https://github.com/imvickykumar999/Video-Colorization/blob/main/video_colorization.py)
+
+    pip install -r requirements.txt
+
+-----------------
+
+## `Uploaded Videos`
+
+- Beqaraar Karake Hamen Yun Na Jaaiye: https://www.youtube.com/watch?v=r4cJrr0WczE
+- Mera Joota Hai Japani: https://www.youtube.com/shorts/FlktPZTxCq4
 
 --------------------------------
 
-## Transformed Video
+## `Transformed Video`
 
 https://user-images.githubusercontent.com/50515418/208450925-81a28039-1ee6-48e6-afc4-e41ebb9ab95c.mp4
 
 ### `It took 20 minutes to transform only 10 seconds video.`
 
-## Original Video
+## `Original Video`
 
 https://user-images.githubusercontent.com/50515418/208451041-b5ab039c-36d4-432f-9047-f15d3da0bea9.mp4
 
