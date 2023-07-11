@@ -45,7 +45,11 @@ colorizer_eccv16 = colorizers.eccv16().eval()
 colorizer_siggraph17 = colorizers.siggraph17().eval()
 ```
 
+--------------------
+
 ### Original implementation (Caffe branch)
+
+https://pub.towardsai.net/colorizing-images-with-deep-learning-a34d11587643
 
 The original implementation contained train and testing, our network and AlexNet (for representation learning tests), as well as representation learning tests. It is in Caffe and is no longer supported. Please see the [caffe](https://github.com/richzhang/colorization/tree/caffe) branch for it.
 
