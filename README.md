@@ -9,6 +9,7 @@
 
 - Beqaraar Karake Hamen Yun Na Jaaiye: https://www.youtube.com/watch?v=r4cJrr0WczE
 - Mera Joota Hai Japani: https://www.youtube.com/shorts/FlktPZTxCq4
+- Haal Kaisa Hai Janaab Ka: [Coming Soon](https://youtube.com/@imvickykumar999)
 
 --------------------------------
 
