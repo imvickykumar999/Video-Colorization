@@ -122,7 +122,7 @@ def step3():
 
 def step4():
 	in_loc = 'vid/mygeneratedvideo.avi'
-	out_loc = 'vid/final.mp4'
+	out_loc = 'vid/coloured.mp4'
 
 	clip = VideoFileClip(in_loc)
 	clip = clip.set_fps(clip.fps * 30)
