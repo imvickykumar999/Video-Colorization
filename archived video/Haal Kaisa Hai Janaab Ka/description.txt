@@ -12,3 +12,5 @@ Starcast:       Kishore Kumar & Madhubala
 Singer:         Kishore Kumar, Asha Bhosle
 Music Director: S.D.Burman
 Lyricist:       Majrooh Sultanpuri
+
+Converted 6671 black and white frames into Colorful Video.
