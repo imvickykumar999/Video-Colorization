@@ -7,7 +7,7 @@
 
 ## `Uploaded Videos`
 
-- Beqaraar Karake Hamen Yun Na Jaaiye: https://youtu.be/r4cJrr0WczE **(12k+ views)**
+- Beqaraar Karake Hamen Yun Na Jaaiye: https://youtu.be/r4cJrr0WczE **(14k+ views)**
 - Mera Joota Hai Japani: https://www.youtube.com/shorts/FlktPZTxCq4
 - Haal Kaisa Hai Janaab Ka: https://youtu.be/dRTmhoUrr_0
 
