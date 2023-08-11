@@ -22,7 +22,8 @@ def step1():
 	except:
 		pass
 
-	vidcap = cv2.VideoCapture('vid/oldsong.mp4')
+	file_name = 'vid/oldsong.mp4'
+	vidcap = cv2.VideoCapture(file_name)
 	success,image = vidcap.read()
 	count = 0
 

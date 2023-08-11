@@ -1,0 +1,13 @@
+
+Converted Black and White Video into Colourful Video
+
+Source Code:
+https://github.com/imvickykumar999/Video-Colorization
+
+Movie:     Chhaya (1961)
+Song:      Itna Na Mujhse Tu Pyaar Badha
+Singer:    Lata Mangeshkar, Talat Mahmood
+Main Cast: Sunil Dutt, Asha Parekh, Nirupa Roy, Lalita Pawar, Nazir Husain, Asit Sen
+Music:     Salil Chowdhury
+Lyrics:    Rajinder Krishan
+Label :    Nupur Audio
