@@ -7,9 +7,9 @@
 
 ## `Uploaded Videos`
 
-- [Beqaraar Karake Hamen Yun Na Jaaiye](https://youtu.be/r4cJrr0WczE) **(30.7k+ views)**
+- [Beqaraar Karake Hamen Yun Na Jaaiye](https://youtu.be/r4cJrr0WczE) **(32.4k+ views)**
 - [Mera Joota Hai Japani](https://www.youtube.com/shorts/FlktPZTxCq4)
-- [Haal Kaisa Hai Janaab Ka](https://youtu.be/dRTmhoUrr_0) **(7k+ views)**
+- [Haal Kaisa Hai Janaab Ka](https://youtu.be/dRTmhoUrr_0) **(7.4k+ views)**
 - [Itna Na Mujhse Tu Pyaar Badha](https://www.youtube.com/watch?v=AFy573PU8Og)
 
 --------------------------------
