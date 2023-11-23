@@ -5,12 +5,13 @@
 
 -----------------
 
-## `Uploaded Videos`
+## `Uploaded` [`PlayList`](https://www.youtube.com/playlist?list=PLyeWzbpbicN032fYAmjBoxPQn9AlB1uwl)
 
 - [Beqaraar Karake Hamen Yun Na Jaaiye](https://youtu.be/r4cJrr0WczE) **(32.4k+ views)**
 - [Mera Joota Hai Japani](https://www.youtube.com/shorts/FlktPZTxCq4)
 - [Haal Kaisa Hai Janaab Ka](https://youtu.be/dRTmhoUrr_0) **(7.4k+ views)**
 - [Itna Na Mujhse Tu Pyaar Badha](https://www.youtube.com/watch?v=AFy573PU8Og)
+- [Aa chal ke tujhe main leke chaloon](https://www.youtube.com/watch?v=gqDkgqpBrwo)
 
 --------------------------------
 
