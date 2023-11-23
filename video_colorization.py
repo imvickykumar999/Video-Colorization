@@ -95,7 +95,7 @@ def step3():
 			im = Image.open(os.path.join(path, file))
 
 			width, height = im.size
-			imResize = im.resize((mean_width, mean_height), Image.ANTIALIAS)
+			imResize = im.resize((mean_width, mean_height), Image.Resampling.LANCZOS)
 			imResize.save(os.path.join(path, file), 'JPEG', quality = 95)
 			print(im.filename.split('\\')[-1], " is resized")
 
