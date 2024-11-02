@@ -1,4 +1,5 @@
 
-# bw_vid_out
-# vid_out
-# vid
+# *.jpg
+*.m4a
+*.mp4
+*.mkv
