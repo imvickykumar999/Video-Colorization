@@ -1,0 +1,14 @@
+
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+# pip install "requirements\torch-1.13.1+cpu-cp39-cp39-win_amd64.whl"
+
+torchvision
+torch
+moviepy
+matplotlib
+scikit-image
+numpy>=1.16.5,<1.23.0
+argparse
+Pillow
+opencv-python
+ipython

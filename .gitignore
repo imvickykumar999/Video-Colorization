@@ -3,3 +3,7 @@
 *.m4a
 *.mp4
 *.mkv
+*.avi
+*.pyc
+requirements/python-3.10.0-amd64.exe
+requirements/torch-1.13.1+cpu-cp39-cp39-win_amd64.whl
